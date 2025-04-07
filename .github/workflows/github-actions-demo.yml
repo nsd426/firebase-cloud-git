@@ -3,7 +3,7 @@ name: Demo GitHub Action
 on:
   push:
     branches:
-      - RA24.2
+      - main
 
 jobs:
   demo:
